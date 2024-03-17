@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558373478995",
+    "project_id": "weather-50915",
+    "storage_bucket": "weather-50915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558373478995:android:aed13cbcddd58973fc1ca6",
+        "android_client_info": {
+          "package_name": "com.example.life_navigator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDgiZMrTcShk33tbocyIQvmwsdsOPSOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
